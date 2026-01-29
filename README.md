@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - Final-year BBA student in Computer Applications @ HAMK (Finland)
-- Completing Erasmus exchange in Vienna (Cloud Computing & IT infrastructure)
+- Completed Erasmus exchange in Vienna (Cloud Computing & IT infrastructure)
 - Seeking Junior Cloud Engineer opportunities in Finland
 - Graduating June 2026
 
