@@ -35,6 +35,12 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+**AI & Agentic Development:**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+
 **Additional Skills:**  
 Data: Power BI (basics), Google Analytics APIs  
 UI/UX: Figma  
@@ -42,6 +48,7 @@ IoT: MQTT
 Game Dev: Unity (basics)
 
 ## 📌 Featured Projects
+- 🔒 [Accommodation Privacy Chatbot](https://github.com/hongqian-li/accommodation-chatbot) - Privacy-aware RAG chatbot with GDPR Article 9 classification layer, built with Ollama, ChromaDB and Flask
 - ☁️ [Azure Cloud Infrastructure](https://github.com/hongqian-li/cloud-computing-technikum-wien) - Terraform automation, CI/CD pipeline
 - 🐍 [Flask REST API with CI/CD](https://github.com/hongqian-li/flask-cicd-demo) - Containerized API with pytest
 - 🤖 [BIP AI Invoice Processing](https://github.com/Tupolaa/BIP-AI-model) - LLaMA 3.2 integration (contributor)
