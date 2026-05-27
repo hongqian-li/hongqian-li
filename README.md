@@ -3,7 +3,7 @@
 ## 🎓 About Me
 - Final-year BBA student in Computer Applications @ HAMK (Finland)
 - Completed Erasmus exchange in Vienna (Cloud Computing & IT infrastructure)
-- Seeking Junior Cloud Engineer opportunities in Finland
+- Seeking AI Developer / Cloud Engineer opportunities in Finland
 - Graduating June 2026
 
 ## 🛠️ Tech Stack
@@ -40,6 +40,8 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6B35?style=flat&logoColor=white)
 
 **Additional Skills:**  
 Data: Power BI (basics), Google Analytics APIs  
@@ -59,6 +61,7 @@ Game Dev: Unity (basics)
 - Containerization (Docker, Kubernetes)
 - Software Delivery & DevOps Practices
 - Web Server Administration
+- AI Security & Privacy (Bachelor's Thesis: Security by Design for Cloud-Deployed Enterprise AI Chatbots)
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongqian-li-9508671a6/)
