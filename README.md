@@ -3,6 +3,7 @@
 ## 🎓 About Me
 - Final-year BBA student in Computer Applications @ HAMK (Finland)
 - Completed Erasmus exchange in Vienna (Cloud Computing & IT infrastructure)
+- Thesis: Security by Design for Cloud-Deployed Enterprise AI Chatbots (GDPR Article 9, EU AI Act compliance, privacy classification, Azure vs on-premise)
 - Seeking AI Developer / Cloud Engineer opportunities in Finland
 - Graduating June 2026
 
