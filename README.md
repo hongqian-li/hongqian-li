@@ -32,6 +32,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 
